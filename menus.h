@@ -7,6 +7,7 @@
 #include <chrono>
 #include <thread>
 #include <cstdio>
+#include "structs.h"
 
 using std::cin;
 using std::cerr;

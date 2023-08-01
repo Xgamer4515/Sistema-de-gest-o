@@ -2,7 +2,6 @@
 #define PRODUTOS_H
 
 #include "menus.h"
-#include "structs.h"
 
 void exibir(const Produto&);
 void menu_cadastro(Produto&);

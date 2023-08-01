@@ -2,7 +2,6 @@
 #define CLIENTES_H
 
 #include "menus.h"
-#include "structs.h"
 
 void exibir(const Cliente&);
 void menu_cadastro(Cliente&);

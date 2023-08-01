@@ -1,6 +1,6 @@
 # Sistema-de-gestão
 
-O sistema de gestão é um aplicativo de linha de comando simples que simula um sistema de gerenciamento de clientes e produtos. Ele permite criar criar, buscar, atualizar, excluir, listar clientes e produtos.
+O sistema de gestão é um aplicativo de linha de comando simples que simula um sistema de gerenciamento de clientes e produtos. Ele permite criar, buscar, atualizar, excluir, listar clientes e produtos.
 
 ## Recursos
 

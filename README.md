@@ -21,7 +21,7 @@ O sistema de gestão é um aplicativo de linha de comando simples que simula um 
     ```
 2. Compile o código-fonte usando um compilador C++:
     ```
-    g++ sistema.cpp produtos.cpp clientes.cpp menus.cpp -o sistema
+    g++ *.cpp -o sistema
     ```
 3. Execute o executável:
     ```

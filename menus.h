@@ -27,9 +27,9 @@ using std::this_thread::sleep_for;
 #include <Windows.h>
 
 inline void ConfigurarAcentuacaoConsole() {
-    system("chcp 65001");
-    SetConsoleCP(65001);
-    SetConsoleOutputCP(65001);
+    system("chcp 65001 > nul");
+    SetConsoleCP(CP_UTF8);
+    SetConsoleOutputCP(CP_UTF8);
 }
 #endif
 

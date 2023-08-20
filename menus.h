@@ -32,7 +32,6 @@ inline void ConfigurarAcentuacaoConsole() {
     SetConsoleOutputCP(65001);
 }
 #endif
-}
 
 inline void LimparTela() {
 #ifdef _WIN32
